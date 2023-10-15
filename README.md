@@ -1,2 +1,2 @@
 # IDSS
-Data science lab excise 
+Data science lab exercise
